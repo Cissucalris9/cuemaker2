@@ -18,5 +18,3 @@ To
 00:00:00 Spot Goes To Hollywood - Watery Grave
 
 This should sort timestamps in order that this script can process.
-None of the code was written by me, here is chatgpt conversation link
-https://chat.openai.com/share/e230966e-f54c-4cb8-aea7-adc4d0fe6186
