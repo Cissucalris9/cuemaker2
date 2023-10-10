@@ -6,7 +6,7 @@ Original Author: JoshBarrass
 Contributing Authors: TheScienceOtter (https://gitlab.com/TheScienceOtter/cuemaker)), r-a-y
 Last Edit: 05/25/2022
 
-This version automatically finds, writes filenames and arguments and scans for subfolders. So all you have to do is just lauch it before setting up .txt with timestamps.
+This version automatically finds, writes filenames and arguments and scans for subfolders. So all you have to do is just lauch it after setting up .txt with timestamps.
 For extension .m4a .
 
 If you want to sort timestamps for some videos that have them different order you might want to use notepad++.
