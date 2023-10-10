@@ -11,6 +11,7 @@ For extension .m4a .
 
 If you want to sort timestamps for some videos that have them different order you might want to use notepad++.
 Ctrl+f> replace> tick regular expressions box and in FIND paste this (.*) - (.*) (\d{2}:\d{2}:\d{2}) in REPLACE this \3 \1 - \2
+
 e.g. https://www.youtube.com/watch?v=TzSXTZs2a3s
 
 Spot Goes To Hollywood - Watery Grave 00:00:00
