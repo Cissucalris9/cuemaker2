@@ -54,8 +54,9 @@ def read_description(path):
     return description
 
 def save_cue(path, data):
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write(data)
+    return True
 
 def generate_cue_files(directory, album, performer, ext="m4a"):
     current_directory = os.getcwd()
